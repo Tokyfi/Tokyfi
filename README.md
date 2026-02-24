@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tokyfi&label=VUES%20PROFIL&color=00c4cc&style=flat-square" alt="tokyfi" />
 </p>
 
-> **Développeur Full-Stack & UI/UX Designer** 🚀  
+> **Développeur Full-Stack Web**
 > Passionné par la création d'interfaces intuitives et de systèmes robustes.
 
 ---
