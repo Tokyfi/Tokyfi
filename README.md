@@ -1,14 +1,49 @@
+<h1 align="center"> Salut ! Moi c'est Toky 👋 </h1>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tokfyfyraza@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tokyfi&label=VUES%20PROFIL&color=00c4cc&style=flat-square" alt="tokyfi" />
+</p>
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> **Développeur Full-Stack & UI/UX Designer** 🚀  
+> Passionné par la création d'interfaces intuitives et de systèmes robustes.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tokyfi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Outils
+
+#### 💻 Développement & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,nodejs,expressjs,cpp,html,css,react,tailwind&theme=dark" />
+</p>
+
+#### 🎨 Design & Créativité
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" valign="middle" />
+</p>
+
+#### 🚀 Infrastructure & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,github,vscode,git&theme=dark" valign="middle" />
+</p>
+
+---
+
+### ✍️ Citation du jour
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### ✉️ Me contacter
+<p align="left">
+  <a href="mailto:tokfyfyraza@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email me" />
+  </a>
+</p>
+
+---
+
+<p align="right">
+  <i>Dernière mise à jour : 2026</i> ✨
+</p>
